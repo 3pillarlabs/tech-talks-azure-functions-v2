@@ -21,11 +21,11 @@ The source code is distributed under the [MIT License](https://opensource.org/li
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/3pillarlabs/tech-talks-azure-functions-v2/. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/3pillarlabs/tech-talks-azure-functions-v2/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/3pillarlabs/tech-talks-azure-functions-v2/. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/3pillarlabs/tech-talks-azure-functions-v2/blob/master/CODE_OF_CONDUCT.md).
 
 ## Code of Conduct
 
-Everyone interacting in this project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/3pillarlabs/tech-talks-azure-functions-v2/CODE_OF_CONDUCT.md).
+Everyone interacting in this project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/3pillarlabs/tech-talks-azure-functions-v2/blob/master/CODE_OF_CONDUCT.md).
 
 ## About this project
 
